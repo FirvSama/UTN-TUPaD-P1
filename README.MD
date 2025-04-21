@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Lopez, Juan   
+- **Nombre:** Lopez Fedyna , Juan  ignacio 
 - **Comisión:** M2025-25 
 
 ## 📂 Descripción del Repositorio  
